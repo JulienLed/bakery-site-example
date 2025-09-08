@@ -20,7 +20,7 @@ const menu = [
   {
     title: "Nos Pains",
     description:
-      "Nos pains sont pétris chaque matin avec des farines sélectionnées et cuits dans un four à sole traditionnel. Croustillants à l’extérieur, moelleux à l’intérieur, ils accompagnent vos repas avec authenticité.",
+      "Nos pains sont pétris chaque matin avec des farines sélectionnées et cuits dans un four à sole traditionnel. Croustillants à l'extérieur, moelleux à l'intérieur, ils accompagnent vos repas avec authenticité.",
     items: [
       {
         nom: "Baguette tradition",
@@ -45,7 +45,7 @@ const menu = [
   {
     title: "Nos Viennoiseries",
     description:
-      "Le parfum du beurre frais qui s’échappe du four, voilà ce qui vous accueille chaque matin. Nos viennoiseries sont feuilletées avec patience, dorées à la perfection et fondantes en bouche.",
+      "Le parfum du beurre frais qui s'échappe du four, voilà ce qui vous accueille chaque matin. Nos viennoiseries sont feuilletées avec patience, dorées à la perfection et fondantes en bouche.",
     items: [
       {
         nom: "Croissant au beurre",
@@ -70,7 +70,7 @@ const menu = [
   {
     title: "Nos Pâtisseries",
     description:
-      "De véritables petites œuvres d’art sucrées, préparées avec finesse et créativité. Chaque pâtisserie allie tradition française et gourmandise moderne, pour finir un repas en beauté ou simplement se faire plaisir.",
+      "De véritables petites œuvres d'art sucrées, préparées avec finesse et créativité. Chaque pâtisserie allie tradition française et gourmandise moderne, pour finir un repas en beauté ou simplement se faire plaisir.",
     items: [
       {
         nom: "Éclair au chocolat",

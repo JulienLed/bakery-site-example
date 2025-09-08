@@ -27,7 +27,7 @@ export function Presentation() {
             préparées avec amour pour notre belle communauté de Wavre.
           </p>
           <div className="flex flex-col items-center justify-center gap-3 mt-5 text-center sm:text-left text-xl">
-            <p>N'hésitez pas à nous rendre visite !</p>
+            <p>N&apos;hésitez pas à nous rendre visite !</p>
             <a
               href="https://www.google.com/maps/search/?api=1&query=Rue+de+la+Baguette+12,+1300+Wavre,+Belgique"
               target="_blank"

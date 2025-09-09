@@ -5,9 +5,9 @@ import {
   CarouselContent,
   CarouselItem,
 } from "@/components/ui/carousel";
-import pain from "@/public/pain.png";
-import croissant from "@/public/croissant.png";
-import boulanger from "@/public/boulanger.png";
+import pain from "@/public/pain.webp";
+import croissant from "@/public/croissant.webp";
+import boulanger from "@/public/boulanger.webp";
 import Image from "next/image";
 import Autoplay from "embla-carousel-autoplay";
 

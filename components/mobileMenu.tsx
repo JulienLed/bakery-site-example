@@ -37,7 +37,7 @@ export function MobileMenu() {
   return (
     <DropdownMenu open={open} onOpenChange={setOpen}>
       <DropdownMenuTrigger>
-        <IoMenu size={40} />
+        <IoMenu aria-label="Bouton du Menu" size={40} />
       </DropdownMenuTrigger>
       <DropdownMenuContent>
         {menuItems.map((item) => {

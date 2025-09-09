@@ -33,9 +33,10 @@ export function Caroussel() {
             width={1024}
             height={1024}
             priority
+            fetchPriority="high"
           />
         </CarouselItem>
-        <CarouselItem>
+        <CarouselItem className="flex justify-center">
           <Image
             alt="Un pain venant d'être fait"
             className="w-xs md:w-md rounded-4xl"
@@ -44,7 +45,7 @@ export function Caroussel() {
             height={1024}
           />
         </CarouselItem>
-        <CarouselItem>
+        <CarouselItem className="flex justify-center">
           <Image
             alt="Un croissant venant d'être fait"
             className="w-xs md:w-md rounded-4xl"

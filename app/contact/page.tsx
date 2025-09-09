@@ -51,7 +51,7 @@ export default function Page() {
   };
 
   return (
-    <Card className="w-[80vw] md:w-[60vw] px-2 md:px-5 shadow-2xl animate-fade-right">
+    <Card className="w-[90vw] md:w-[60vw] px-1 md:px-5 shadow-2xl animate-fade-right">
       <CardHeader>
         <CardTitle>Nous contacter</CardTitle>
 

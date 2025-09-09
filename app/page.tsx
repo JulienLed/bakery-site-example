@@ -3,7 +3,7 @@ import { Presentation } from "@/components/presentation";
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center sm:items-start md:grid md:grid-cols-5 gap-20">
+    <div className="flex flex-col items-center sm:items-start md:grid md:grid-cols-5 gap-10">
       <section id="caroussel" className="col-span-2 animate-fade-right">
         <Caroussel />
       </section>

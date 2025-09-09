@@ -32,11 +32,11 @@ export function Presentation() {
               href="https://www.google.com/maps/search/?api=1&query=Rue+de+la+Baguette+12,+1300+Wavre,+Belgique"
               target="_blank"
               rel="noopener noreferrer"
-              className="flex justify-between items-baseline gap-5"
+              className="flex justify-between items-center gap-5"
             >
-              <LuCroissant />
+              <LuCroissant size={40} />
               Nous sommes situés à Rue de la Baguette 12, 1300 Wavre
-              <LuCroissant />
+              <LuCroissant size={40} />
             </a>
           </div>
         </div>

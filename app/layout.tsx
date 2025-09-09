@@ -29,6 +29,7 @@ export default function RootLayout({
       <body
         className={`${nunito.className} min-h-screen flex flex-col bg-[url("/bg.png")]`}
       >
+        <div className="fixed inset-0 bg-white/40 pointer-events-none"></div>
         <Header />
         <main className="flex justify-center items-center flex-1 my-10 mx-[10vw]">
           {children}

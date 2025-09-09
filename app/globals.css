@@ -58,7 +58,7 @@
   --secondary-foreground: oklch(0.208 0.042 265.755);
   --muted: oklch(0.968 0.007 247.896);
   --muted-foreground: oklch(48.619% 0.05346 63.895);
-  --accent: #FFF5E1;
+  --accent: #fff5e1;
   --accent-foreground: oklch(21.279% 0.04668 21.782);
   --destructive: oklch(0.577 0.245 27.325);
   --border: oklch(0.929 0.013 255.508);
@@ -121,6 +121,6 @@
     @apply bg-background text-foreground;
   }
   a {
-    @apply hover:text-amber-900 !transition-all !duration-200
+    @apply hover:text-amber-900 !transition-all !duration-200;
   }
 }

@@ -27,7 +27,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${nunito.className} min-h-screen flex flex-col bg-[url("/bg.png")]`}
+        className={`${nunito.className} min-h-screen flex flex-col bg-[url("/bg.webp")]`}
       >
         <div className="fixed inset-0 bg-white/40 pointer-events-none"></div>
         <Header />
